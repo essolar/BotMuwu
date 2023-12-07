@@ -3,4 +3,4 @@ export const BOT_NAME = 'TimerSMWG';
 export const DEFAULT_COMMAND_PREFIX = '$';
 
 export const COMMANDS_DIRECTORY = '../src/commands';
-export const BOSS_DATA_DIRECTORY = '../data/bossList.json';
+export const BOSS_DATA_DIRECTORY = '/data/bossList.json';
