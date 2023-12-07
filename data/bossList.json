@@ -1,0 +1,22 @@
+{
+    "bosses": [
+        {
+            "ID": 1511,
+            "bossName": "Amon Ra",
+            "HP": 1214138,
+            "race": "Demi-Human",
+            "property": "Fire 3",
+            "location": "moc_pryd06",
+            "minRespawnTimeScheduleInSeconds": 3600,
+            "maxRespawnTimeScheduleInSeconds": 4200,
+            "deathTime": null,
+            "imageUrl": "https://file5s.ratemyserver.net/mobs/1511.gif",
+            "alias": [
+                "AR"
+            ],
+            "minRespawnTime": null,
+            "maxRespawnTime": null
+        }
+   
+    ]
+}
