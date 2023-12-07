@@ -1,6 +1,6 @@
 import fs from 'fs';
 import Discord from 'discord.js';
-import { COMMANDS_DIRECTORY } from '../globals/constants';
+import { COMMANDS_DIRECTORY } from '../globals/constants.js';
 
 const commandFiles = fs.readdirSync(COMMANDS_DIRECTORY)
 .filter((fileName) => fileName.endsWith('.js'));

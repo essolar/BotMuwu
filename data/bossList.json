@@ -2,18 +2,46 @@
     "bosses": [
         {
             "ID": 1511,
-            "bossName": "Amon Ra",
-            "HP": 1214138,
-            "race": "Demi-Human",
-            "property": "Fire 3",
-            "location": "moc_pryd06",
-            "minRespawnTimeScheduleInSeconds": 3600,
-            "maxRespawnTimeScheduleInSeconds": 4200,
+            "bossName": "Lord Silvester",
+            "HP": 8000000,
+            "race": "Demonio",
+            "property": "Dinamico",
+            "location": "Akeron Ch1",
+            "minRespawnTimeScheduleInSeconds": 42480,
+            "maxRespawnTimeScheduleInSeconds": 43200,
             "deathTime": null,
-            "imageUrl": "https://file5s.ratemyserver.net/mobs/1511.gif",
-            "alias": [
-                "AR"
-            ],
+            "imageUrl": "https://almacengamertv.com/wp-content/uploads/2023/02/lord-silvester-boss.jpg",
+            "alias": [],
+            "minRespawnTime": null,
+            "maxRespawnTime": null
+        },
+        {
+            "ID": 1512,
+            "bossName": "Lord Silvester",
+            "HP": 8000000,
+            "race": "Demonio",
+            "property": "Dinamico",
+            "location": "Akeron Ch2",
+            "minRespawnTimeScheduleInSeconds": 42480,
+            "maxRespawnTimeScheduleInSeconds": 43200,
+            "deathTime": null,
+            "imageUrl": "https://almacengamertv.com/wp-content/uploads/2023/02/lord-silvester-boss.jpg",
+            "alias": [],
+            "minRespawnTime": null,
+            "maxRespawnTime": null
+        },
+        {
+            "ID": 1513,
+            "bossName": "Lord Silvester",
+            "HP": 8000000,
+            "race": "Demonio",
+            "property": "Dinamico",
+            "location": "Akeron Ch3",
+            "minRespawnTimeScheduleInSeconds": 42480,
+            "maxRespawnTimeScheduleInSeconds": 43200,
+            "deathTime": null,
+            "imageUrl": "https://almacengamertv.com/wp-content/uploads/2023/02/lord-silvester-boss.jpg",
+            "alias": [],
             "minRespawnTime": null,
             "maxRespawnTime": null
         }

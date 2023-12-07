@@ -1,6 +1,6 @@
 import fs from 'fs';
 import Discord from 'discord.js';
-import { BOSS_DATA_DIRECTORY } from '../globals/constants';
+import { BOSS_DATA_DIRECTORY } from '../globals/constants.js';
 import moment from 'moment';
 
 // * parameters = time
